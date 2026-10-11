@@ -1,0 +1,12 @@
+{
+  "name": "dundumon-ai-free-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dundumon AI - AI chat starter for Vercel, with no image generation",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^41.6.2"
+  }
+}
